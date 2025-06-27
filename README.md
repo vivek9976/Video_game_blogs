@@ -47,4 +47,5 @@ To get a local copy up and running, follow these simple steps.
 
 ## Prerequisites
 You'll need to have Node.js and npm (or yarn) installed on your machine.
+
 npm install npm@latest -g
