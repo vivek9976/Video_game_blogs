@@ -3,7 +3,7 @@ Welcome to Blog Quest, a frontend project that reimagines the traditional blog e
 
 Live Demo: [https://scale-cds-public-us-west-2.s3.amazonaws.com/63fe4e654667d0a6f128105c/fn4mIzZjdD6-XNj]
 
-##About The Project
+## About The Project
 Blog Quest transforms the mundane task of Browse articles into an exciting adventure. Users can "level up" by reading posts, earn experience points (XP), and unlock achievements. The entire interface is designed to be reminiscent of a video game, complete with a heads-up display (HUD), distinct "levels" (posts), and interactive elements that make the user experience more engaging and fun.
 
 This project was built to explore the possibilities of combining modern web technologies with game design principles to create a unique and memorable user interface.
