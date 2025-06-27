@@ -1,4 +1,4 @@
-##Blog Quest: A Gamified Blog UI
+## Blog Quest: A Gamified Blog UI
 Welcome to Blog Quest, a frontend project that reimagines the traditional blog experience with a user interface inspired by video game menus. This application is built with React and TypeScript, leveraging the power of Framer Motion for fluid animations and a gamified feel.
 
 Live Demo: [https://scale-cds-public-us-west-2.s3.amazonaws.com/63fe4e654667d0a6f128105c/fn4mIzZjdD6-XNj]
@@ -17,7 +17,7 @@ Tailwind CSS
 Lucide React (for icons)
 Google Fonts (Press Start 2P and Orbitron)
 
-##Features
+## Features
 Gamified UI: A unique interface that feels like a video game menu.
 Interactive Posts: Posts are presented as "levels" that users can select and "play."
 User Profiles: View your own or other users' profiles, complete with an avatar, bio, level, and XP bar.
