@@ -25,13 +25,21 @@ Interactive Posts: Posts are presented as "levels" that users can select and "pl
 User Profiles: View your own or other users' profiles, complete with an avatar, bio, level, and XP bar.
 
 Experience System: Gain experience points for engaging with content.
+
 Achievements: Unlock achievements for completing certain actions.
+
 Dynamic Animations: Smooth and engaging animations powered by Framer Motion.
+
 Dark & Light Modes: Toggle between dark and light themes for comfortable reading.
+
 Keyboard Navigation: Navigate the blog using keyboard shortcuts for a more immersive experience.
+
 Search and Filter: Easily find posts by searching or filtering by category.
+
 Commenting and Rating: Interact with posts by leaving comments and ratings.
+
 Responsive Design: A fully responsive layout that looks great on all devices.
+
 Locked Content: "Locked" posts to encourage user progression.
 
 ## Getting Started
