@@ -42,9 +42,6 @@ Responsive Design: A fully responsive layout that looks great on all devices.
 
 Locked Content: "Locked" posts to encourage user progression.
 
-## Getting Started
-To get a local copy up and running, follow these simple steps.
-
 ## Prerequisites
 You'll need to have Node.js and npm (or yarn) installed on your machine.
 
