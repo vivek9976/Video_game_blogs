@@ -19,8 +19,11 @@ Google Fonts (Press Start 2P and Orbitron)
 
 ## Features
 Gamified UI: A unique interface that feels like a video game menu.
+
 Interactive Posts: Posts are presented as "levels" that users can select and "play."
+
 User Profiles: View your own or other users' profiles, complete with an avatar, bio, level, and XP bar.
+
 Experience System: Gain experience points for engaging with content.
 Achievements: Unlock achievements for completing certain actions.
 Dynamic Animations: Smooth and engaging animations powered by Framer Motion.
